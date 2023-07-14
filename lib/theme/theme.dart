@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Theme {
+class Theme_Data {
   static const primary = Color.fromRGBO(204, 0, 0, 1);
   static const secondary = Color.fromRGBO(59, 76, 202, 1);
   static const tertiar = Color.fromRGBO(255, 222, 0, 1);
